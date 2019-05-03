@@ -1,0 +1,271 @@
+@media screen and (min-width: 50px) {
+
+h1 {
+    font-size: 3vw;
+    text-decoration: bold;
+    color: black;
+    text-align:center;
+}
+.merch {
+  float: left;
+  width: 49.98%;
+  border: 0.1px solid black;
+}
+.merch2 {
+  float: right;
+  width: 50%;
+  border: 0.1px solid black;
+}
+.merch3 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch4 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch5 {
+float: right;
+width: 33.68%;
+border: 1px solid black;
+}
+.merch6 {
+float: left;
+width: 49.89%;
+border: 1px solid black;
+}
+.merch7 {
+float: right;
+width: 49.9%;
+border: 1px solid black;
+}
+.merch8 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch9 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch10 {
+float: right;
+width: 33.68%;
+border: 1px solid black;
+}
+  .goodsimage {
+    float: right;
+    width: auto;
+  }
+
+}
+.merch11 {
+float: left;
+width: 49.89%;
+border: 1px solid black;
+}
+.merch12 {
+float: right;
+width: 49.9%;
+border: 1px solid black;
+}
+.merch13 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch14 {
+float: left;
+width: 33%;
+border: 1px solid black;
+}
+.merch15 {
+float: right;
+width: 33.68%;
+border: 1px solid black;
+}
+
+p {
+    font-size: 1.5vw;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+header img {
+    position: relative;
+    width: auto;
+    height: 34px;
+}
+body {
+    background-color: whitesmoke;
+}
+ul {
+    font-size: 1.3vw;
+    text-align: center;
+}
+
+a {
+    position: relative;
+    display: block;
+    height: 50px;
+    width:350px;
+    margin: 5px auto;
+    color: black;   
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: white;
+  }
+   
+  .nav ul {
+    list-style: none;
+    background-color: white;
+    text-align: center;
+    padding: 0;
+    width:100%;
+    margin: 0 auto;
+    float:right;
+    
+    
+
+  }
+  .nav li {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 60px;
+    border-bottom: 2px solid white;
+    width:10%;
+  }
+   
+  .nav a {
+    float:left;
+    text-decoration: none;
+    color: #444;
+    display: block;
+    transition: .3s background-color;
+    width:10%;
+  }
+   
+  .nav a:hover {
+    background-color: white;
+  }
+   
+  .nav a.active {
+    background-color: #444;
+    color: #444;
+    cursor: default;
+  }
+
+  .nav img {
+      float:left;
+      width: 200px;
+      height: 25px;
+  }
+   
+  @media screen and (min-width: 200px) {
+    .nav li {
+      width: 140px;
+      border-bottom: none;
+      height: 50px;
+      line-height: 50px;
+      font-size: 0.6em;
+    }
+
+  li {
+    display: inline;
+  }
+
+  header {
+      width: 100%;
+      height:100px;
+  }
+}
+
+@media screen and (min-width: 200px) {
+  .onthursdaycollection {
+    float: right;
+    width: auto;
+    margin: 0%;
+  }
+}
+
+.onthursdaybuy {
+  float: center;
+}
+
+
+
+.naw ul {
+  list-style: none;
+  background-color: white;
+  text-align: center;
+  padding: 0;
+  width:100%;
+  margin: 0 auto;
+  float:left;
+  
+  
+
+}
+.naw li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 60px;
+  border-bottom: 2px solid white;
+  width:10%;
+}
+ 
+.naw a {
+  float: left;
+  text-decoration: none;
+  color: #444;
+  display: block;
+  transition: .3s background-color;
+  width:10%;
+}
+ 
+.naw a:hover {
+  background-color: white;
+}
+ 
+.naw a.active {
+  background-color: #444;
+  color: #444;
+  cursor: default;
+}
+
+.naw img {
+    float:left;
+    width: 200px;
+    height: 25px;
+}
+ 
+@media screen and (min-width: 200px) {
+  .naw li {
+    width: 160px;
+    border-bottom: none;
+    height: 40px;
+    line-height: 40px;
+    font-size: 0.6em;
+  }
+
+li {
+  display: inline;
+}
+}
+
